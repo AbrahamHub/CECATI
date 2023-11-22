@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `CECATI`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Abraham Castañeda Quintero`, 
+      summary: `Una aplicación web para la gestión noticias en los CECATI's de Nuevo León.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Una aplicación web para la gestión noticias en los CECATI's de Nuevo León.`,
+    siteUrl: `https://cecati.vercel.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `abrahamcq`,
     },
   },
   plugins: [
